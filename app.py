@@ -1,12 +1,9 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-import json
 
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-import numpy as np
 
 # PAGE CONFIG
 st.set_page_config(page_title="Plotting Demo", page_icon="📈")
